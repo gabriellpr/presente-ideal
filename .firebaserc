@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "presente-ideal",
+    "firebase-react-deploy": "presente-ideal"
+  }
+}
